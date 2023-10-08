@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    display: grid;
+    place-items: center;
+    margin-top: 200px;
+    
+}
+.testbox {
+    display: grid;
+    place-items: center;
+    height: 400px;
+    width: 400px;
+    background-color: red; 
+    box-shadow: 10px 10px 100px purple;
+}
+.text {
+    color: purple;
+    font-size: 80px;
+    text-shadow: 10px 10px 10px yellow;
+}
