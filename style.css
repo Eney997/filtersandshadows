@@ -2,7 +2,7 @@ body {
     background-color: black;
     display: grid;
     place-items: center;
-    margin-top: 200px;
+    margin-top: 100px;
     
 }
 .testbox {
@@ -17,4 +17,10 @@ body {
     color: purple;
     font-size: 80px;
     text-shadow: 10px 10px 10px yellow;
+}
+img {
+    width: 300px;
+    filter: brightness(150%);
+    filter: saturate(150%);
+    box-shadow: 10px 10px 80px green;
 }
