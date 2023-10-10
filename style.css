@@ -22,5 +22,5 @@ img {
     width: 300px;
     filter: brightness(150%);
     filter: saturate(150%);
-    box-shadow: 10px 10px 80px green;
+    box-shadow: 10px 10px 80px blue;
 }
